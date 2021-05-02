@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queue", "Queue", "{E9D0D01B-CFCB-4446-850B-8A1EA3BF4FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueSample", "QueueSample\QueueSample.csproj", "{3AF4C200-8B08-452A-98EA-47FC90A6BE2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF4C200-8B08-452A-98EA-47FC90A6BE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF4C200-8B08-452A-98EA-47FC90A6BE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF4C200-8B08-452A-98EA-47FC90A6BE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF4C200-8B08-452A-98EA-47FC90A6BE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3AF4C200-8B08-452A-98EA-47FC90A6BE2E} = {E9D0D01B-CFCB-4446-850B-8A1EA3BF4FEE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC0228B-87DD-47F2-A347-AC4D58F67B57}
+	EndGlobalSection
+EndGlobal
